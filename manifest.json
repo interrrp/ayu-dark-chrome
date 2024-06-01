@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/chrome-manifest",
+  "manifest_version": 3,
+
+  "name": "Ayu Dark",
+  "description": "The Ayu Dark theme for Chrome",
+  "version": "0.1",
+  "homepage_url": "https://github.com/interrrp/ayu-dark-chrome",
+
+  "theme": {
+    "colors": {
+      "frame": [11, 14, 20],
+      "frame_inactive": [11, 14, 20],
+      "toolbar": [11, 14, 20],
+      "background_tab": [11, 14, 20],
+
+      "omnibox_background": [19, 23, 33],
+
+      "bookmark_text": [191, 189, 182],
+
+      "omnibox_text": [235, 230, 216],
+      "tab_text": [235, 230, 216],
+
+      "toolbar_button_icon": [255, 180, 84]
+    }
+  }
+}
